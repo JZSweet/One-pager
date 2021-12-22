@@ -1,0 +1,28 @@
+nav {
+    background-color: rgb(245, 181, 181);
+    height: 60px;
+}
+
+.inline-block {
+    display: inline-block;
+    padding: 20px;
+}
+
+.left {
+    width: 29%;
+    float: left;
+    height: 500px;
+    background-color: rgb(178, 225, 241);
+}
+
+.right {
+    width: 70%;
+    float: left;
+    height: 500px;
+    background-color: rgb(150, 168, 150);
+    text-align: center;
+}
+
+.nest1 {
+    width: 50px;
+}
